@@ -32,10 +32,6 @@ This Power BI project analyzes mobile sales data to understand sales performance
 - Studied payment preferences such as UPI, Debit Card, Cash and Credit Card.
 - Identified monthly and day-wise sales trends.
 
-## Project Screenshot
-
-![Motorola Sales Dashboard](dashboard.png)
-
 ## Skills Demonstrated
 - Data Cleaning
 - Data Modeling
