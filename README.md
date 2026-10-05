@@ -79,7 +79,3 @@ This dashboard provides insights into:
 ## 🎯 Objective
 
 The objective of this project is to analyze Amazon product data and create an interactive Power BI dashboard that helps understand product performance, ratings, pricing, and discounts.
-
-## 📷 Dashboard Preview
-
-![Amazon Sales Dashboard](dashboard.png)
