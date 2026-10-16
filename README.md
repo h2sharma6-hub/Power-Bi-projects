@@ -79,3 +79,36 @@ This dashboard provides insights into:
 ## 🎯 Objective
 
 The objective of this project is to analyze Amazon product data and create an interactive Power BI dashboard that helps understand product performance, ratings, pricing, and discounts.
+
+# HR Analytics Dashboard | Power BI
+
+## Project Overview
+This HR Analytics Dashboard is created using Microsoft Power BI
+to analyze employee data and understand HR performance.
+
+## Key Insights
+- Employee attrition analysis
+- Employee distribution by gender
+- Job satisfaction analysis by job role
+- Years at company by job role
+- Performance rating by job role
+- Monthly income analysis
+- Employee distribution across cities
+
+## Tools Used
+- Microsoft Power BI
+- Data Visualization
+- Data Analysis
+
+## Dashboard Features
+- Interactive job role filters
+- Attrition and overtime employee KPIs
+- Donut charts for HR metrics
+- Bar chart for years at company
+- Employee details table
+- Geographic visualization
+
+## Objective
+The objective of this project is to help HR teams understand
+employee trends, job satisfaction, performance, and attrition
+through interactive visualizations.
